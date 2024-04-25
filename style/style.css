@@ -431,3 +431,8 @@ display: none;
     width: 100%;
   }
 }
+@media(max-width: 360px){
+  footer .vol button{
+   font-size: 2rem;
+  }
+}
